@@ -225,4 +225,4 @@ Chicken Invaders is available as a **full free version** with all features and u
 Get ready to defend Earth from the chicken invasion! **Download Chicken Invaders now and join the fun!**
 
 ---
-**Last updated:** 2026-10-07 22:43:20 UTC
+**Last updated:** 2026-10-08 02:30:53 UTC
